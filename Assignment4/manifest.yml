@@ -1,0 +1,10 @@
+applications:
+  - path: .
+    name: smk0036-rcube
+    environment_json: {}
+    memory: 128M
+    instances: 1
+    disk_quota: 1024M
+    services: [] 
+
+    
